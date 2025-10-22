@@ -1,0 +1,1 @@
+C:\Users\oopas\kma_rustlang_course_2025_Olena_Pasternak\3_first_crate_parser_stage_1\my_parser_kma_group_1\target\debug\libmy_parser_kma_group_1.rlib: C:\Users\oopas\kma_rustlang_course_2025_Olena_Pasternak\3_first_crate_parser_stage_1\my_parser_kma_group_1\src\lib.rs
